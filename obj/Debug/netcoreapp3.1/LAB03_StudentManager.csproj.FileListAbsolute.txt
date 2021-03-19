@@ -1,0 +1,16 @@
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\bin\Debug\netcoreapp3.1\LAB03_StudentManager.exe
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\bin\Debug\netcoreapp3.1\LAB03_StudentManager.deps.json
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\bin\Debug\netcoreapp3.1\LAB03_StudentManager.runtimeconfig.json
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\bin\Debug\netcoreapp3.1\LAB03_StudentManager.runtimeconfig.dev.json
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\bin\Debug\netcoreapp3.1\LAB03_StudentManager.dll
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\bin\Debug\netcoreapp3.1\LAB03_StudentManager.pdb
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.FormResult.resources
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.frmStudent.resources
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.csproj.GenerateResource.cache
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.AssemblyInfoInputs.cache
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.AssemblyInfo.cs
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.csproj.CoreCompileInputs.cache
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.dll
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.pdb
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.genruntimeconfig.cache
+D:\a_Document\FPTU_Doc\SEM5\PRN292\LAB03_StudentManager\obj\Debug\netcoreapp3.1\LAB03_StudentManager.csprojAssemblyReference.cache
